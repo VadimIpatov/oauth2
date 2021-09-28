@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"golang.org/x/oauth2"
+	"github.com/VadimIpatov/oauth2"
 	"io"
 	"io/ioutil"
 	"net/http"

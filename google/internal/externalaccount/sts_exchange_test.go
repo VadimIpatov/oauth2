@@ -7,7 +7,7 @@ package externalaccount
 import (
 	"context"
 	"encoding/json"
-	"golang.org/x/oauth2"
+	"github.com/VadimIpatov/oauth2"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
